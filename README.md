@@ -1,6 +1,9 @@
 # Nbtutor
 
 Visualize Python code execution (line-by-line) in [Jupyter Notebook] cells. Inspired by [Online Python Tutor]
+as usual -> moron style. please close notebook & re open to see the toggle.
+this doesn't give the return value -> so beware...
+
 
 ![Usage Example](usage.gif)
 

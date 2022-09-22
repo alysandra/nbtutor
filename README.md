@@ -11,7 +11,12 @@ Visualize Python code execution (line-by-line) in [Jupyter Notebook] cells. Insp
 Note: installing directly off this repo won't work, as we don't ship the built JavaScript and CSS assets.
 See more about [developing](#developing) below.
 
+##becuase i have been a business user for 2 years.. i couldn't get this..
+
 ### `pip`
+----
+in order to do pip -> launch jupyter -> new -> terminal ![image](https://user-images.githubusercontent.com/10142946/191653800-9243df1a-47cb-43df-b463-58206dafba2e.png)
+
 
 ```shell
 pip install nbtutor
